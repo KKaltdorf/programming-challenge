@@ -19,8 +19,8 @@ public final class App {
     	int column1 = 1;
     	int column2 = 2;
     	String cvsSplitBy = ",";
-	    String label = "";
-	    String line = "";
+	String label = "";
+	String line = "";
 
         //load classes
     	FileHandler f = new FileHandler();
